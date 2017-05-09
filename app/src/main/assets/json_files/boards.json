@@ -1,0 +1,9 @@
+{
+  "boards" : [
+    {
+      "boardName" : "testBoard",
+      "url" : "images/boards/board.png",
+      "playAreaImageUrl" : "images/card_areas/play-area.png"
+    }
+  ]
+}
